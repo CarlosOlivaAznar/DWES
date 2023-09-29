@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        //Ejercicio sin comenzar
+
     ?>
     <br>
     <br>
